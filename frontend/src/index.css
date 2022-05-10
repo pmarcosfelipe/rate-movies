@@ -2,6 +2,7 @@
 
 :root {
   --color-primary: #4d41c0;
+  --color-white: #fff;
 }
 
 * {
@@ -16,6 +17,6 @@ body {
 
 a,
 a:hover {
-  text-decoration: none;
-  color: unset;
+  text-decoration: none !important;
+  color: unset !important;
 }

@@ -1,5 +1,11 @@
+import Header from 'components/Header/index';
+
 function App() {
-  return <h1>Alou</h1>;
+  return (
+    <>
+      <Header />
+    </>
+  );
 }
 
 export default App;
